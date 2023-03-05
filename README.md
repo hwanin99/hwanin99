@@ -1,8 +1,7 @@
-# hwanin99:wave:
 <div align='center'>
 
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=I'm&nbsp;the&nbsp;one&nbsp;who's&nbsp;studying&nbsp;data&nbsp;science.&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
      
-<br/>
 <br/>
   
 ### 🛠 Skills 
