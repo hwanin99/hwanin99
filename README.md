@@ -22,7 +22,7 @@
 <br/>
 
 ### 👇 Follow Me
-<a href="https://blog.naver.com/tjdghks0521"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/tjdghks0521"/></a>
+<a href="https://hwan-data.tistory.com/"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/tjdghks0521"/></a>
  <a href="mailto:tim185664@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tim185664@gmail.com"/></a>
 <a href="https://www.instagram.com/hwanin99/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hwanin99/"/></a>  
 
