@@ -1,6 +1,12 @@
 <div align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Computer&nbsp;Vision&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=venom&color=D1B5F7&height=300&section=header&text=Welcome+to+my+Github!&fontSize=50&animation=scaleIn&fontColor=D1B5F7&font=Lora)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=30&pause=1000&color=D1B5F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
+
+</div>
+
+<div align='center'>
      
 <br/>
      
@@ -24,9 +30,11 @@
  <a href="mailto:tim185664@gmail.com"><img src="https://img.shields.io/badge/Gmail-58ACFA?style=flat-square&logo=Gmail&logoColor=white&link=tim185664@gmail.com"/></a>
 <a href="https://www.instagram.com/hwanin99/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hwanin99/"/></a>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanin99&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwanin99&layout=compact&theme=dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hwanin99&show_icons=true&theme=dark" height="180"/>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=hwanin99&show_icons=true&theme=dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hwanin99&theme=apprentice)  
 
