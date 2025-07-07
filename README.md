@@ -14,14 +14,16 @@
 ### 🛠 Skills 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
+
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/keras-D00000?style=flat&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" />
+
 <br/>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 
 <br/>  
 <br/>
