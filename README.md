@@ -24,10 +24,10 @@
  <a href="mailto:tim185664@gmail.com"><img src="https://img.shields.io/badge/Gmail-58ACFA?style=flat-square&logo=Gmail&logoColor=white&link=tim185664@gmail.com"/></a>
 <a href="https://www.instagram.com/hwanin99/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hwanin99/"/></a>  
 
-<br/>  
-<br/>
-     
-### 📈 GitHub Stats 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hwanin99&theme=buefy)  
-    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanin99&layout=compact&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api?username=hwanin99&show_icons=true&theme=dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hwanin99&theme=apprentice)  
+
 </div>
